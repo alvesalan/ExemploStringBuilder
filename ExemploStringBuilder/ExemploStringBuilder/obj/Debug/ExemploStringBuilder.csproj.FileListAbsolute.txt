@@ -1,0 +1,11 @@
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\bin\Debug\ExemploStringBuilder.exe.config
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\bin\Debug\ExemploStringBuilder.exe
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\bin\Debug\ExemploStringBuilder.pdb
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Principal.resources
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Properties.Resources.resources
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.csproj.GenerateResource.Cache
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.exe
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.pdb
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Exemplo01.resources
+C:\Users\Alan Eduardo\Documents\GitHub\My-personal-project\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Exemplo02.resources
